@@ -23,11 +23,11 @@ Run all cells
 
 4.Spearman rank correlation 
 
-Use Spearman rank correlation to analyze the relationship between the number of Airbnb listings and the comprehensive indicators of AHAH.
+ Use Spearman rank correlation to analyze the relationship between the number of Airbnb listings and the comprehensive indicators of AHAH.
 
-Use Spearman rank correlation to analyze the relationship between the number of Airbnb listings and the four AHAH domains.
+ Use Spearman rank correlation to analyze the relationship between the number of Airbnb listings and the four AHAH domains.
 
-Use Spearman rank correlation to analyze the relationship between the number of Airbnb listings and the four indicators in the Retail Environment.
+ Use Spearman rank correlation to analyze the relationship between the number of Airbnb listings and the four indicators in the Retail Environment.
 
 5. Finally, create two visual graphs. The spatial graph uses a hierarchical color map to display the number of Airbnb listings in each LSOA of Bristol. The non-spatial graph uses a horizontal bar chart to show the Spearman correlation coefficient between the number of Airbnblistings and the four Retail Environment indicators.
 ## Acknowledgements

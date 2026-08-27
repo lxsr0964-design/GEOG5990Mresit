@@ -16,12 +16,16 @@ Open GEOG5990M_Final_Project_Resit.ipynb
 Run all cells
 ## Code Explanation
 1. Import the required Python libraries for the analysis.
+
 2. Conduct a preliminary exploration of the two datasets and count the number of Airbnb listings in each LSOA.
+
 3. Connect the Airbnb listings count with the AHAH data using LSOA11CD. LSOAs without Airbnb listings will have their property count set to 0.
+
 4.Spearman rank correlation 
 Use Spearman rank correlation to analyze the relationship between the number of Airbnb listings and the comprehensive indicators of AHAH.
 Use Spearman rank correlation to analyze the relationship between the number of Airbnb listings and the four AHAH domains.
 Use Spearman rank correlation to analyze the relationship between the number of Airbnb listings and the four indicators in the Retail Environment.
+
 5. Finally, create two visual graphs. The spatial graph uses a hierarchical color map to display the number of Airbnb listings in each LSOA of Bristol. The non-spatial graph uses a horizontal bar chart to show the Spearman correlation coefficient between the number of Airbnblistings and the four Retail Environment indicators.
 ## Acknowledgements
 Thank you to the teaching team of GEOG5990M
